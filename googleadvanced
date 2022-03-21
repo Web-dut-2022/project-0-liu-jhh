@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<meta charset=" utf-8">
+<head>
+<title>Google advanced</title>
+</head>
+<body>
+<div id="container"> 
+<form action="https://www.google.com/search">
+<div align="center"> 
+<img src="https://img1.baidu.com/it/u=521059929,2454740636&fm=253&fmt=auto&app=138&f=GIF?w=440&h=330"  align="bottom" border="0">
+<div align="center"> 
+<h3>以下所有字词
+				<input type="text" name="as_q">
+				</h3>
+				<h3>与以下字词完全匹配
+				<input type="text" name="as_epq">
+				</h3>
+				<h3>以下任意字词
+				<input type="text" name="as_oq">
+				</h3>
+				<h3>不含以下任意字词
+				<input type="text" name="as_eq">
+				</h3>
+<input type="text" name="q">
+<input type="submit" value="Google advanced">
+</form>
+</div>
+        <div class="divcss4"><a href="./google.html" target="_blank">
+<div align="center"> 
+            <button style="border-radius: 10px">return</button>
+        <div class="divcss4"><a href="./googleimage.html" target="_blank">
+<div align="center"> 
+            <button style="border-radius: 10px">image Search</button>
+        </a>
+</div> 
+</body>
+</html>
