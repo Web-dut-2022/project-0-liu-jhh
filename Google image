@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<meta charset=" utf-8">
+<head>
+<title>Google image</title>
+</head>
+<body>
+<div id="container"> 
+<form action="https://www.google.com/search">
+<div align="center"> 
+<img src="https://img1.baidu.com/it/u=521059929,2454740636&fm=253&fmt=auto&app=138&f=GIF?w=440&h=330"  align="bottom" border="0">
+<div align="center"> 
+<input type="text" name="q">
+<input type="hidden" name="tbm" value = "isch" />
+            <input type="submit" value="Google image Search"
+</form>
+</div>
+<div class="divcss4"><a href="./google.html" target="_blank">
+<div align="center"> 
+            <button style="border-radius: 10px">return</button>
+        <div class="divcss4"><a href="./googleadvanced.html" target="_blank">
+<div align="center"> 
+            <button style="border-radius: 10px">Advanced Search</button>
+        </a>
+</div> 
+</body>
+</html>
